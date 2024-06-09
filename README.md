@@ -1,2 +1,2 @@
 # translate-narrate
-This is pdf or text reader with translation features.
+This is a pdf or text narrater with translation features.
