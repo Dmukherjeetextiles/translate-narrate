@@ -1,0 +1,4 @@
+streamlit
+text_to_speech
+deep_translator
+PyPDF2
